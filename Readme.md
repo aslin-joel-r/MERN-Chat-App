@@ -1,1 +1,0 @@
-Building a CRUD application of Book store using the MERN stack 
